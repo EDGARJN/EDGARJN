@@ -1,9 +1,4 @@
-- 👋 Hi, I’m EDGAR JN, !DevOps Learner | Flutter Dev | Back-End Dev
-- 👀 I’m interested in DevOps and @Data
-- 🌱 I’m currently developing Backend side by using Node.js environment     &&    Server configuration.
-- 🌱 I’m currently learning BASH
-- 💞️ I’m looking to collaborate on backend system development
-- 📫 email me at: asetceo01@gmail.com
+I'll write here something about me tomorrow. But currently **I am Computer Scientist who focus on teaching computer to see!**
 
 
 <!---
