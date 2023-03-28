@@ -1,7 +1,3 @@
-I'll write here something about me tomorrow. But currently **I am Computer Scientist who focus on teaching computer to see!**
+"Computer vision is the science of computers and machines that can see, but what does it mean to 'see'? For a human, 'seeing' means perceiving our surroundings and interpreting the complex visual information that they provide. As computer vision researchers, our goal is to enable machines to do the same – to extract meaning from the visual world and make intelligent decisions based on what they 'see'." 		**- Fei-Fei Li**
 
-
-<!---
-EDGARJN/EDGARJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+She'll write about me tomorrow. But currently **I'm Computer Scientist focusing on teaching computer to see** 
